@@ -1,7 +1,5 @@
 # Harsh Chitaliya - Data Scientist Engineer
 
-![Profile Image](https://media.licdn.com/dms/image/D4D03AQGofqCxP-h9pg/profile-displayphoto-shrink_800_800/0/1688946512665?e=1713398400&v=beta&t=HU6cXvPKfMtzxZ6AUNaVRtpI_cPIhPMFNKKDocp_yEA)
-
 ## About Me
 
 I am a dedicated learner currently pursuing a Bachelor of Technology (BTech) degree in Artificial Intelligence and Data Science at Dwarkadas Sanghvi College of Engineering. My academic journey is driven by a passion for mastering technical skills and coding principles, aiming to excel in the dynamic field of AI and data science.

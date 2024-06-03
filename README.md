@@ -4,10 +4,6 @@
 
 I am a dedicated learner currently pursuing a Bachelor of Technology (BTech) degree in Artificial Intelligence and Data Science at Dwarkadas Sanghvi College of Engineering. My academic journey is driven by a passion for mastering technical skills and coding principles, aiming to excel in the dynamic field of AI and data science.
 
-## Download Resume
-
-Feel free to download my resume [here](file:///C:/Users/bhave/Downloads/harshr%20(2).pdf) to learn more about my professional experience and skills.
-
 ## Expertise
 
 - Java
